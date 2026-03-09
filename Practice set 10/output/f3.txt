@@ -1,0 +1,2 @@
+i.ram . 1000
+ii.krishna . 1000
